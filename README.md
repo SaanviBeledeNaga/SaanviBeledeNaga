@@ -2,9 +2,9 @@
 
 #  SAANVI BELEDE NAGA 
 
-###  Thinking •  Building •  Evolving
+###  • Thinking •  Building •  Evolving
 
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="350"/>
+<img src="https://tenor.com/en-GB/view/ghostedvpn-hacker-cat-bongo-cat-keyboard-cat-hacker-gif-4373606555250453292" width="350"/>
 
 </div>
 
