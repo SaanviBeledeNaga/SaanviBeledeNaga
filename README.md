@@ -1,10 +1,10 @@
 <div align="center">
 
-# ✨ SAANVI BELEDE NAGA ✨
+#  SAANVI BELEDE NAGA 
 
 ###  Thinking •  Building •  Evolving
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400"/>
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="350"/>
 
 </div>
 
