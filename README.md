@@ -2,9 +2,19 @@
 
 # ✨ SAANVI BELEDE NAGA ✨
 
-### 💭 Thinking • 🛠 Building • 🚀 Evolving
+###  Thinking •  Building •  Evolving
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400"/>
 
 </div>
+
+---
+
+## ABOUT ME
+
+Hey! I'm Saanvi 👋  
+I'm a first-year Information Technology student.
+If you can't already tell, I love to code!
 
 ---
 
@@ -34,17 +44,23 @@
 
 ---
 
-## 📊 🌟 GITHUB STATS
+## 📊  GITHUB STATS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaanviBeledeNaga&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SaanviBeledeNaga&show_icons=true&theme=radical&cache_seconds=1800"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaanviBeledeNaga&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaanviBeledeNaga&layout=compact&theme=radical"/>
 </p>
 
 ---
 
-## 🌐 💫 CONNECT WITH ME
+## 🐍 CONTRIBUTION SNAKE
+
+![Snake animation](https://github.com/SaanviBeledeNaga/SaanviBeledeNaga/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 🌐 CONNECT WITH ME
 
 <p align="center">
   <a href="https://www.linkedin.com/in/saanvi-bn">
@@ -62,6 +78,5 @@
 
 <div align="center">
 
-### 🌟 "Build boldly. Learn deeply. Evolve constantly."
 
 </div>
