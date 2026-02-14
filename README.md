@@ -44,13 +44,11 @@ I'm a first-year Information Technology student, and if you can't already tell, 
 ---
 
 ## 📊  GITHUB STATS
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaanviBeledeNaga&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SaanviBeledeNaga&show_icons=true&theme=radical&hide_border=true" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaanviBeledeNaga&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SaanviBeledeNaga&layout=compact&theme=radical&hide_border=true" />
 </p>
-
 
 ---
 
