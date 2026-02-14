@@ -2,9 +2,9 @@
 
 #  SAANVI BELEDE NAGA 
 
-###  • Thinking •  Building •  Evolving
+###   • Thinking •  Building •  Evolving
 
-<img src="https://media.tenor.com/2roX3uxz_68AAAAC/cute-hacker.gif" width="400"/>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjkxMXo1Nmc0bmwyYnBva3N3eWxkYWp5bnBycnhjaXd0Z2sza29hZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/maNB0qAiRVAty/giphy.gif" width="400"/>
 
 </div>
 
@@ -46,10 +46,11 @@ I'm a first-year Information Technology student, and if you can't already tell, 
 ## 📊  GITHUB STATS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaanviBeledeNaga&show_icons=true&theme=radical&cache_seconds=1800"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SaanviBeledeNaga&show_icons=true&theme=radical&hide_border=true&rank_icon=github" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaanviBeledeNaga&layout=compact&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaanviBeledeNaga&layout=compact&theme=radical&hide_border=true" />
 </p>
+
 
 ---
 
