@@ -46,7 +46,7 @@ I'm a first-year Information Technology student, and if you can't already tell, 
 ## 📊  GITHUB STATS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaanviBeledeNaga&show_icons=true&theme=radical&hide_border=true&rank_icon=github" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SaanviBeledeNaga&show_icons=true&theme=radical&hide_border=true" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaanviBeledeNaga&layout=compact&theme=radical&hide_border=true" />
 </p>
@@ -54,11 +54,6 @@ I'm a first-year Information Technology student, and if you can't already tell, 
 
 ---
 
-## 🐍 CONTRIBUTION SNAKE
-
-![Snake animation](https://github.com/SaanviBeledeNaga/SaanviBeledeNaga/blob/output/github-contribution-grid-snake.svg)
-
----
 
 ## 🌐 CONNECT WITH ME
 
