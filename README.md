@@ -4,7 +4,7 @@
 
 ###  • Thinking •  Building •  Evolving
 
-<img src="https://tenor.com/en-GB/view/ghostedvpn-hacker-cat-bongo-cat-keyboard-cat-hacker-gif-4373606555250453292" width="350"/>
+<img src="https://media.tenor.com/2roX3uxz_68AAAAC/cute-hacker.gif" width="400"/>
 
 </div>
 
@@ -13,8 +13,7 @@
 ## ABOUT ME
 
 Hey! I'm Saanvi 👋  
-I'm a first-year Information Technology student.
-If you can't already tell, I love to code!
+I'm a first-year Information Technology student, and if you can't already tell, I love to code!
 
 ---
 
