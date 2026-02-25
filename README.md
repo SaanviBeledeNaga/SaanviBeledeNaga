@@ -13,6 +13,7 @@
 ## ABOUT ME
 
 Hey! I'm Saanvi
+<br>
 I'm a first-year Information Technology student, and if you can't already tell, I love to code!
 
 ---
