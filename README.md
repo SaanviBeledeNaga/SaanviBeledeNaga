@@ -42,23 +42,26 @@ I'm a first-year Information Technology student, and if you can't already tell, 
 ![GitHub](https://img.shields.io/badge/GitHub-6366F1?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
+---
+
 ## 🏆 CODING PROFILES & STATS
 
-<p align="center">
+<div align="center">
 
-<img src="https://leetcard.jacoblin.cool/SaanviBeledeNaga?theme=dark&font=Roboto&ext=activity" />
+<img src="https://leetcard.jacoblin.cool/SaanviBeledeNaga?theme=dark&font=Roboto&ext=activity" width="450"/>
 
 <br/><br/>
 
 <a href="https://www.geeksforgeeks.org/profile/saanvibelis33">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
 
 <a href="https://www.hackerrank.com/profile/saanvibeledenaga">
-  <img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
 </a>
 
-</p>
+</div>
+
 ---
 
 ## 📊  GITHUB STATS
