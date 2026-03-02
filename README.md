@@ -44,6 +44,31 @@ I'm a first-year Information Technology student, and if you can't already tell, 
 
 ---
 
+## 🏆 CODING PROFILES & STATS
+
+<p align="center">
+
+  <!-- LeetCode -->
+  <img src="https://leetcard.jacoblin.cool/SaanviBeledeNaga?theme=dark&font=Roboto&ext=activity" />
+
+  <br/><br/>
+
+  <!-- GeeksforGeeks -->
+  <a href="https://www.geeksforgeeks.org/profile/saanvibelis33">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+  </a>
+
+  <br/><br/>
+
+  <!-- HackerRank -->
+  <a href="https://www.hackerrank.com/profile/saanvibeledenaga">
+    <img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
+  </a>
+
+</p>
+
+---
+
 ## 📊  GITHUB STATS
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SaanviBeledeNaga&show_icons=true&theme=radical&hide_border=true" />
