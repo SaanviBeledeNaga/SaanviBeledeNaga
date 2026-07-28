@@ -12,7 +12,7 @@
 
 ## ABOUT ME
 
-Hey! I'm Saanvi
+Heyoooo! This is Saanvi.
 <br>
 I'm a second-year Information Technology student, and if you can't already tell, I love to code!
 
